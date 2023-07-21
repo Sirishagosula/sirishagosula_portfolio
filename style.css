@@ -598,8 +598,8 @@ border: 1px solid transparent;
 	position: absolute;
 	left: 0;
 	top: 0;
-	height: 100%;
-	width: 100%;
+	height: 50vh;
+	width: 50vh;
 	background-color: #5a24ed38;
 }
 #projects .item .left .img img {
